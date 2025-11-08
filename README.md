@@ -8,7 +8,7 @@ Accurate Planetary Calculation: Uses the swisseph library (Swiss Ephemeris) for 
 
 Panchang Elements: Calculates the Tithi, Nakshatra, Yoga, Karana, and Moon Rashi (sign) for the day.
 
-Gemini API Integration: Generates detailed predictions for health, wealth, love, and career advice, tailored to the unique astrological conditions of the day.
+ChatGPT API Integration: Generates detailed predictions for health, wealth, love, and career advice, tailored to the unique astrological conditions of the day.
 
 Nepali Language Output: All generated horoscopes are provided in Nepali.
 
